@@ -1,6 +1,6 @@
 # Building and Deploying a Machine Learning Model with Scikit-Learn and ONNX
 
-## Team
+## Team Members
 
 - Mounika Ayyapu (A20550421)
 - Sai Kartheek Goli (A20546631)
